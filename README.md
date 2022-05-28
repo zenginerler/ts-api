@@ -1,6 +1,15 @@
 # API Template to Combine `TypeScript`, `NodeJS` and `Express`
 
-## Available Commands:
+Simple API Template that utilizes TypeScript, NodeJS, and Express
+
+### Quick Start:
+```sh
+git clone https://github.com/zenginerler/ts-api-template.git
+npm i
+node run dev
+```
+
+### Available Commands:
 ```sh
 $ node run dev
 $ node run build
